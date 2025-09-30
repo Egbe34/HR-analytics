@@ -1,4 +1,4 @@
-# HR Analytics Quickstart (Ready in Minutes)
+# HR Analytics 
 
 A fast, portfolio-ready HR analytics project you can push to GitHub **right now**. It includes a synthetic employee dataset, KPI analysis, clean matplotlib charts, and a simple attrition (churn) model.
 
