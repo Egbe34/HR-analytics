@@ -1,5 +1,12 @@
 #  HR Analytics Project (Employee Attrition & Workforce Insights)
 
+##  Project Roadmap
+
+This roadmap summarizes how the HR Analytics project was carried out:
+
+![HR Project Roadmap](images/hr-project-roadmap.png)
+
+
 This project applies **HR Analytics** to study workforce trends, employee engagement, and attrition risk.  
 It uses a real HR dataset (**1,470 employees, 39 features**) and combines:  
 - **Python Analytics** (KPIs, predictive modeling)  
