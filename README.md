@@ -21,6 +21,9 @@ It uses a real HR dataset (**1,470 employees, 39 features**) and combines:
 
 ##  Dataset
 
+The dataset used for this project is available here:  
+➡️ [Download HR Dataset (Excel)](data/hr-data.xlsx)
+
 - Employees: **1,470**  
 - Features: **39**  
 - Examples: Age, Gender, Department, Job Role, Monthly Income, Marital Status, Overtime, Performance Rating, Years at Company, Work-Life Balance, etc.  
