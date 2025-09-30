@@ -50,9 +50,10 @@ From the dataset and dashboard:
 
 ## Dashboard Preview
 
-Interactive Excel dashboard created for HR managers:
+Here is the HR Analytics Dashboard created in Tableau:
 
-![HR Dashboard](HR%20Analytic%20Dashboard.png)
+![HR Dashboard](images/HR%20Analytic%20Dashboard.png)
+
 
 Features:
 - Department-wise attrition  
