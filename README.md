@@ -71,6 +71,31 @@ Features:
 
 ---
 
+
+---
+
+
+##  Insights
+
+From the analysis of 1,470 employees:
+
+- **Attrition Rate:** ~16% (237 employees left)  
+- **Overtime:** Strongly correlated with attrition — employees working overtime are more likely to leave.  
+- **Salary:** Lower income employees are at higher risk of attrition.  
+- **Job Satisfaction:** Employees with low satisfaction are much more likely to resign.  
+- **Tenure:** Short-tenure employees are more prone to leaving.  
+- **Business Travel:** Frequent travel increases attrition risk.  
+
+##  Recommendations
+
+1. **Overtime Policy:** Reduce excessive overtime and promote work-life balance.  
+2. **Compensation:** Review pay structure for lower-income roles to improve retention.  
+3. **Engagement Programs:** Target employees with low job satisfaction through surveys, mentoring, and recognition.  
+4. **Onboarding & Early Career Support:** Provide additional support to new hires to reduce early attrition.  
+5. **Travel Flexibility:** Offer hybrid/remote options or travel support for employees who travel frequently.  
+6. **HRIS/SAP Integration:** Feed attrition risk scores into HR dashboards (e.g., SAP SuccessFactors, Workday) for proactive interventions.  
+
+
 ##  Predictive Modeling (Python)
 
 A **logistic regression model** was trained to predict attrition:
@@ -105,4 +130,7 @@ Outputs:
 ##  How to Run the Python Analysis
 
 ```bash
-# 1) Clone th
+# 1) Clone this repository:
+   ```bash
+   git clone https://github.com/Egbe34/HR-analytics.git
+   cd HR-analytics
