@@ -63,6 +63,18 @@ A clean, interactive HR Dashboard built in **Excel** to visualize key workforce 
 
 ![Excel Dashboard](images/Excel.png)
 
+###  How the Excel Dashboard Was Built
+
+The **HR Analytics Excel Dashboard** was developed using raw data from `data/HR Analytics.xlsx`.
+
+**Steps followed:**
+1. Cleaned and structured employee data using Excel formulas and filters.  
+2. Created Pivot Tables for key KPIs — attrition, department, gender, and job role.  
+3. Linked pivot tables to dynamic charts (bar, pie, and donut).  
+4. Used slicers to make the dashboard interactive (by department, education, and gender).  
+5. Applied custom formatting and icons for professional visual presentation.
+
+This dashboard provides clear visibility into **employee attrition trends**, **department performance**, and **demographic patterns**.
 
 
 
