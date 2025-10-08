@@ -57,6 +57,15 @@ From the dataset and dashboard:
 
 ## Dashboard Preview
 
+##  Excel Dashboard
+
+A clean, interactive HR Dashboard built in **Excel** to visualize key workforce KPIs, attrition patterns, and demographics.
+
+![Excel Dashboard](images/Excel.png)
+
+
+
+
 Here is the HR Analytics Dashboard created in Tableau:
 
 ![HR Dashboard](images/HR%20Analytic%20Dashboard.png)
